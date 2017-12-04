@@ -45,6 +45,13 @@ r2: 0.9853273572257101
     * logs/ dir contains streaming.log and datafeed.log
 	* use stop.sh to stop the streaming and feeding.
  * Use predict.sh to generate the actual predictions.
+
+## Data
+![Observations][data_observations.png]
+
+![Stations][data_stations.png]
+
+
  
 ## Considerations
  * Add real spark streaming through a large scale messaging and eventually remove the Socker Server
@@ -52,4 +59,7 @@ r2: 0.9853273572257101
  * Check other features and features set and test different models
  * Add more stations and data feeds
  * etc etc
+
+
+
 
