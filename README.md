@@ -37,7 +37,10 @@ r2: 0.9853273572257101
 ## Howto
  * Enter the directory before executing the following scripts.
  * Use install-spark.sh to setup the env
- * Use build.sh to build the modules. Python 2.7 requred.
+ * Use build.sh to build the modules. Requirements:
+    * Python 2.7
+	* Maven
+	* Java 1.8
  * Use start.sh to start the data feed and the spark streaming application
     * logs/ dir contains streaming.log and datafeed.log
 	* use stop.sh to stop the streaming and feeding.
