@@ -18,7 +18,7 @@
  * Condition is predicted based on predicted temperature and humidity.
  * Output the predictions in data/predictions/predictions.csv
  * Reads the feature data from a csv file in data/predictions/<PATH>
- * Current results with 16 stations and 144 observations from the past 72 hours using LinearRegression:
+ * Current results with 16 stations and 144 observations per station from the past 72 hours using LinearRegression:
 
 ```
 Pressure
