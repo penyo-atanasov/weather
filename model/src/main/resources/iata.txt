@@ -1,0 +1,11 @@
+Sydney,SYD,Sydney - Observatory Hill,-33.86,151.21,39.0,http://www.bom.gov.au/fwo/IDN60801/IDN60801.94768.json
+Melbourne,MEL,Melbourne (Olympic Park),-37.83,144.98,7.53,http://www.bom.gov.au/fwo/IDV60901/IDV60901.95936.json
+Brisbane,BNE,Brisbane Airport,-27.39,153.13,4.51,http://www.bom.gov.au/fwo/IDQ60901/IDQ60901.94578.json
+Perth,PER,Perth Airport,-31.93,115.98,15.4,http://www.bom.gov.au/fwo/IDW60901/IDW60901.94610.json
+Adelaide,ADL,Adelaide Airport,-34.95,138.52,2.0,http://www.bom.gov.au/fwo/IDS60901/IDS60901.94672.json
+Gold Coast,OOL,Gold Coast Seaway,-27.94,153.43,2.98,http://www.bom.gov.au/fwo/IDQ60901/IDQ60901.94580.json
+Cairns,CNS,Cairns,-16.87,145.75,2.22,http://www.bom.gov.au/fwo/IDQ60801/IDQ60801.94287.json
+Canberra,CBR,Canberra,-35.31,149.20,577.05,http://www.bom.gov.au/fwo/IDN60903/IDN60903.94926.json
+Hobart,HBA,Hobart Airport,-42.83,147.50,4.0,http://www.bom.gov.au/fwo/IDT60901/IDT60901.94975.json
+Darwin,DRW,Darwin Airport,-12.42,130.89,30.4,http://www.bom.gov.au/fwo/IDD60901/IDD60901.94120.json
+Townsville,TSV,Townsville,-19.25,146.77,4.34,http://www.bom.gov.au/fwo/IDQ60801/IDQ60801.94294.json

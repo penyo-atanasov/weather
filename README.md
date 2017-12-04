@@ -18,7 +18,22 @@
  * Condition is predicted based on predicted temperature and humidity.
  * Output the predictions in data/predictions/predictions.csv
  * Reads the feature data from a csv file in data/predictions/<PATH>
-	 
+ * Current results with 16 stations and 144 observations from the past 72 hours using LinearRegression:
+
+```
+Pressure
+RMSE: 2.9424744341420745
+r2: 0.4882222112647927
+
+Humidity
+RMSE: 5.631818845224078
+r2: 0.9612451568162376
+
+Temperature
+RMSE: 1.0655829295792203
+r2: 0.9853273572257101
+```
+
 ## Howto
  * Enter the directory before executing the following scripts.
  * Use install-spark.sh to setup the env
@@ -29,7 +44,7 @@
  * Use predict.sh to generate the actual predictions.
  
 ## Considerations
- * Add real spark streaming through a large scale messaging (Kafka)
+ * Add real spark streaming through a large scale messaging and eventually remove the Socker Server
  * Tweak the overwrite/append modes and aggregate more data without duplications
  * Check other features and features set and test different models
  * Add more stations and data feeds

@@ -1,0 +1,4 @@
+socket.streaming.host=127.0.0.1
+socket.streaming.port=9999
+file.streaming.path=data/input
+batch.duration.seconds=5
