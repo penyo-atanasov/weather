@@ -47,9 +47,9 @@ r2: 0.9853273572257101
  * Use predict.sh to generate the actual predictions.
 
 ## Data
-![Observations][data_observations.png]
+![Observations](https://github.com/penyo-atanasov/weather/blob/master/data_observations.png "Observations")
 
-![Stations][data_stations.png]
+![Stations](https://github.com/penyo-atanasov/weather/blob/master/data_stations.png "Stations")
 
 
  
